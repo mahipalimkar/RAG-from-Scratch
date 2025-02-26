@@ -21,6 +21,8 @@ Embeddings: Sentence-Transformers (all-MiniLM-L6-v2) for semantic search
 Vector Database: FAISS for efficient similarity search
 Text Processing: PyPDF for document parsing
 UI: IPython widgets for the interactive interface
+
+Output:
 ![image](https://github.com/user-attachments/assets/26913270-f7a6-42a9-a40b-9e6373271a59)
 
 To improve the queality of response, we can tune the generation parameters in the generate_response method.
