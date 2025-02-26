@@ -25,4 +25,4 @@ UI: IPython widgets for the interactive interface
 
 To improve the queality of response, we can tune the generation parameters in the generate_response method.
 
-I uhave used TinyLllama here because of its low computational requirements and faster inference speed.
+I have used TinyLllama here because of its low computational requirements and faster inference speed.
